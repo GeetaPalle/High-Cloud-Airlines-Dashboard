@@ -12,3 +12,34 @@ Compared weekend vs weekday travel patterns
 
 Identified top airlines, busiest routes, and passenger trends
 
+ ## Tools & Technologies
+
+Excel → Data cleaning, pivot analysis, dashboard creation
+
+Power BI → Interactive reports & KPI tracking
+
+Tableau → Advanced visual storytelling & insights
+
+SQL → Data extraction and transformation
+
+## Key Insights
+
+2011 had the best load factor among 2008–2013
+
+Weekdays had higher passenger volume compared to weekends
+
+Delta Airlines & Southwest Airlines ranked highest in load factor & transported passengers
+
+Most flights were short-haul (<500 miles), with fewer long-distance routes
+
+USA dominated with ~103K flights, far more than Mexico & Canada
+
+## Recommendations
+
+Add more weekday flights on busy US routes to capture demand
+
+Adjust flight schedules using passenger travel patterns to maximize seat utilization
+
+Focus on short-haul routes where demand is strongest
+
+Use data-driven planning to improve efficiency, profitability, and customer satisfaction
