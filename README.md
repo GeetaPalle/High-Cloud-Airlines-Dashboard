@@ -43,3 +43,7 @@ Adjust flight schedules using passenger travel patterns to maximize seat utiliza
 Focus on short-haul routes where demand is strongest
 
 Use data-driven planning to improve efficiency, profitability, and customer satisfaction
+
+## Conclusion
+
+This project highlights how data-driven strategies can help airlines improve capacity utilization, align operations with customer demand, and stay competitive in a dynamic market.
