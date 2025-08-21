@@ -42,6 +42,14 @@ Adjust flight schedules using passenger travel patterns to maximize seat utiliza
 
 Focus on short-haul routes where demand is strongest
 
+## Dashboard
+
+Excel : https://github.com/GeetaPalle/High-Cloud-Airlines-Dashboard/blob/main/Excel%20Dashboard.png
+
+Power BI : https://github.com/GeetaPalle/High-Cloud-Airlines-Dashboard/blob/main/Power%20BI%20Dashboard.png
+
+Tableau : https://github.com/GeetaPalle/High-Cloud-Airlines-Dashboard/blob/main/Tableau%20Dashboard.png
+
 Use data-driven planning to improve efficiency, profitability, and customer satisfaction
 
 ## Conclusion
